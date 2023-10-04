@@ -299,4 +299,5 @@
 /define:UNITY_TEAM_LICENSE
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/PlayerController.cs"
+"Assets/Scripts/MoveFoward.cs"
+"Assets/Scripts/PlayerController.cs"
